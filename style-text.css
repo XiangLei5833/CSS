@@ -1,0 +1,8 @@
+body{
+    color:aqua;
+    text-align:center;
+}
+p{
+    text-indent:5em;
+    /*将该段落进行了指定距离的缩进，在 text-align 的基础上*/
+}

@@ -1,0 +1,8 @@
+body{
+    background-image:url("/home/shiyanlou/Desktop/10-1.png");
+    background-repeat:no-repeat;
+    background-position:center top;
+    /*可以尝试去掉 top 来对比显示效果*/
+    background-attachment:fixed;
+    background-size:100px 100px;
+}

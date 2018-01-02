@@ -1,0 +1,9 @@
+/*背景颜色设置为红色*/
+body{
+    background-color:red
+}
+p{
+    width:150px;
+    padding:10px;
+    background-color:green
+}
