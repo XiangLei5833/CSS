@@ -1,0 +1,5 @@
+ul.circle{list-style-type:circle}
+ul.square{list-style-type:square}
+ol.upper-roman{list-style-type:upper-roman}
+ol.lower-alpha{list-style-type:lower-alpha}
+/* 可以自定义小图标：list-style-image:url("") */
