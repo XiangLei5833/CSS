@@ -1,0 +1,89 @@
+.container{
+    width:1100px;
+    height:100px;
+    background-color:lightseagreen;
+    text-align:left;
+}
+.headtitle{
+    margin-left:5px;
+    margin-top:33px;
+    float:left;
+    color:white;
+}
+.headlead{
+    float:left;
+    margin-top:52px;
+}
+li{
+    padding:2px;
+    display:inline
+}
+a:link,a{
+    color:snow;
+    text-align:cener;
+    padding:2px;
+    text-decoration:none;
+}
+a:hover{
+    color:black;
+}
+.headimage{
+    float:right;
+    margin-top:30px;
+    margin-right:5px;
+}
+.headimage img{
+    height:60px;
+    width:60px;
+}
+.headform form{
+   float:right;
+    height:26px;
+    margin-right:50px;
+}
+form input{
+    height:20px;
+    background-color:cadetblue;
+    width:100px;
+    margin-top:50px;
+    border-radius:30px;
+}
+.content{
+    height:700px;
+    width:1100px;
+    background-color:cadetblue;
+    position:relative;
+}
+.bdytitle{
+    color:snow;
+}
+.bdytitle p{
+    margin:20px;
+}
+hr{
+    width:99%;
+    border-style:double;
+    color:lightgray;
+}
+.img1,.img2,.img3,.img4{
+    border:2px solid lightgrey;
+    float:left;
+    text-align:center;
+    margin:10px 10px;
+}
+.img1 img,.img2 img,.img3 img,.img4 img{
+    width:250px;
+    height:220px;
+}
+.img1 p,.img2 p,.img3 p,.img4 p{
+    color:snow;
+    font-size:20px;
+}
+.foot{
+    text-align:center;
+    background-color:lightgrey;
+    height:50px;
+    padding:20px;
+    font-size:30px;
+    color:darkslategrey;
+}
