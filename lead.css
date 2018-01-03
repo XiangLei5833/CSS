@@ -1,0 +1,16 @@
+ul{
+    list-style:none;
+}
+li{
+    display:inline;
+    /*水平排列*/
+}
+a:link,a:visited{
+    text-decoration:none;
+    background-color:lightgray;
+  /*display:block;*/
+  /*竖直排列*/
+}
+a:link,a:hover{
+    background-color:cadetblue;
+}
